@@ -1,0 +1,40 @@
+﻿
+Before Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:42:40 PM
+After Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:42:40 PM
+----------------------------------
+
+Before Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:42:40 PM
+After Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:42:43 PM
+----------------------------------
+
+Before Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:43:45 PM
+After Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:43:45 PM
+----------------------------------
+
+Before Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:43:45 PM
+After Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:43:45 PM
+----------------------------------
+
+Before Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:11 PM
+After Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:11 PM
+----------------------------------
+
+Before Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:11 PM
+After Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:11 PM
+----------------------------------
+
+Before Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:13 PM
+After Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:13 PM
+----------------------------------
+
+Before Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:13 PM
+After Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:13 PM
+----------------------------------
+
+Before Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:14 PM
+After Action execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:14 PM
+----------------------------------
+
+Before Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:14 PM
+After Result execution->FillterDemo.Controllers.HomeController->FillterDemo.Controllers.HomeController.Index (FillterDemo)->3/7/2023 3:44:14 PM
+----------------------------------
